@@ -5,7 +5,7 @@ This Python project utilizes OpenCV and YOLO (You Only Look Once) for the detect
 ## Prerequisites
 
 Before running this project, ensure you have the following installed:
-- Python 3.x
+- Python 3.11
 - OpenCV library (`cv2`)
 - NumPy
 
