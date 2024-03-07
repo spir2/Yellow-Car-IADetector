@@ -1,7 +1,7 @@
 # Yellow Car Detector
 
 This Python project utilizes OpenCV and YOLO (You Only Look Once) for the detection of yellow cars in video streams or video files. It's designed to run on environments where OpenCV is supported, and it has been tested with YOLOv4 for object detection.
-
+![visual](https://github.com/spir2/Yellow-Car-IADetector/assets/130176259/b40d1633-3ea0-4c29-81c7-04ce5f7e6395)
 ## Prerequisites
 
 Before running this project, ensure you have the following installed:
