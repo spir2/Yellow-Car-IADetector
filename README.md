@@ -35,3 +35,8 @@ Upon execution, the program will prompt you to select the video source:
 * Enter 0 for live camera feed.
 * Enter 1 to load a video file. You will need to specify the path to your video file.
 * The detector will process the selected video source and display the results in a new window, highlighting detected yellow cars with bounding boxes and labels.
+
+## Features
+* Supports live camera feed and video files as input.
+* Utilizes YOLOv4 for accurate object detection.
+* Customizable to detect other objects by modifying the class labels.
