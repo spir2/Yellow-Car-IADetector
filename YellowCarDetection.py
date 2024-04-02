@@ -105,8 +105,8 @@ class YellowCarDetector:
 
 if __name__ == "__main__":
     Menu()
-    choice = int(input('Live Cam (0) -- Video Load (1)  :'))
-    if choice: video_path = '.\datasset\Video3.mp4'
+    choice = int(input('Live Cam (0) -- Video Load (1)  :')) 
+    if choice: video_path = '.\datasset\Video3.mp4'  # (path for a video test) or put your video in the folder 'datasset'
     else: video_path = 0
     detector = YellowCarDetector(video_source=video_path)
     detector.process_video()
